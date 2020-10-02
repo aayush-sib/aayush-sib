@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![SIB](https://github.com/aayush-sib/aayush-sib/blob/main/gif/sib.gif)
 <!--
 **aayush-sib/aayush-sib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
